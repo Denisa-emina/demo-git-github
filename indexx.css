@@ -10,3 +10,8 @@ body {
 h2 {
     color: wheat;
 }
+
+p{
+    color: white;
+    font-size: 2rem;
+}
